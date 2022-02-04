@@ -1,0 +1,11 @@
+go-app-template
+.env
+coverage.out
+
+dist/
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
